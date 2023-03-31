@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "miditerm")(type "KiCad")(uri "${KIPRJMOD}/miditerm.kicad_sym")(options "")(descr ""))
+)
